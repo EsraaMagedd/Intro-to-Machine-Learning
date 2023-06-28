@@ -1,4 +1,4 @@
-# Intro-to-Machine-Learning
+# Machine Learning - Intro and Intermediate
 Learn the core ideas in machine learning, and build your first models.
 
 ##### By Esraa Maged 
